@@ -1,1 +1,1 @@
-# Python-Crash-Course-Exercise
+# Python-Crash-Course-Exercises
